@@ -50,6 +50,25 @@ Generated Caption
       │
       ▼
 Confidence / Accuracy Score
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ⚙️ How It Works
 The user uploads an image through the Streamlit application.
 The image is converted into RGB format and preprocessed using ViTImageProcessor.
